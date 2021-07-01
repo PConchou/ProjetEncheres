@@ -19,7 +19,7 @@ public class ServletTestCommit extends HttpServlet {
      */
     public ServletTestCommit() {
         super();
-        // TODO Auto-generated constructor stub
+        // TODO Auto-generated constructor BONJOUR yyy
     }
 
 	/**
